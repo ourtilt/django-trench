@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
-      time: "09:30"
+      time: "07:00"
       timezone: "America/Los_Angeles"
     open-pull-requests-limit: 5
     labels:
